@@ -15,3 +15,6 @@
 
 # Ignored Terraform files
 *gitignore*.tf
+
+# VS Code
+.vscode/
